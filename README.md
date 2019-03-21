@@ -2,7 +2,7 @@
 Animation examples of Flutter for IWD Istanbul presentation
 
 
-# Animatons
+# Animations
 
 ## Animate 1
 <img src="https://user-images.githubusercontent.com/13484562/54758989-4309c180-4bfe-11e9-9758-a98cc65d45a5.gif" height = "550px">
