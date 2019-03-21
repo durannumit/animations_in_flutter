@@ -93,7 +93,7 @@ class UsedInTutorialTextOnly extends _LogoAppState {
     // #enddocregion tween
 
     // #docregion colorTween
-    colorTween = ColorTween(begin: Colors.transparent, end: Colors.black54);
+    colorTween = ColorTween(begin: Colors.transparent, end: Colors.yellow);
     // #enddocregion colorTween
   }
 

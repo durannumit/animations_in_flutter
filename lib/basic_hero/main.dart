@@ -26,7 +26,7 @@ class BasicHeroAnimation extends StatelessWidget {
                       padding: const EdgeInsets.all(8.0),
                       alignment: Alignment.topLeft,
                       // Use background color to emphasize that it's a new route.
-                      color: Colors.lightBlueAccent,
+                      color: Colors.black,
                       child: Hero(
                         tag: 'flippers',
                         child: SizedBox(
